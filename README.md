@@ -1,6 +1,6 @@
 # Hi!
 
-### I am a fullstack developer based in Germany. Here are some stats, until I put actual information here.
+### Here are some stats, until I put actual information here.
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
