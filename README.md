@@ -6,18 +6,13 @@ I make a lot of stuff. I you want that I continue to make a lot of stuff, you ca
 
 https://www.buymeacoffee.com/peeet
 
-Bitcoin (BTC)
-bc1qc2av8uc7fdzr9696uqcqtdf2hl25rgmnvm9ys4
+**BTC:** bc1qc2av8uc7fdzr9696uqcqtdf2hl25rgmnvm9ys4
 
-Solana (SOL)
-DCCuNLirA9hXPHJGmCVhrkG6Kh4E2w8Bu6HHnXLbm78L
+**SOL:** DCCuNLirA9hXPHJGmCVhrkG6Kh4E2w8Bu6HHnXLbm78L
 
-Ethereum (ETH)
-0x3dEe894fd880816b1205dE915A00a42c85C44502
+**ETH:** 0x3dEe894fd880816b1205dE915A00a42c85C44502
 
-Monero (XMR)
-45jQVd3NnUxPVqDxqdYzA9hbfUDfygLhTiSY1c9mjiYEKL2YcLk4G9E48mRpA2Nd3m4hLxqwy8Y6TBJaAjAiyFazK5SpV1g
-
+**XMR:** 45jQVd3NnUxPVqDxqdYzA9hbfUDfygLhTiSY1c9mjiYEKL2YcLk4G9E48mRpA2Nd3m4hLxqwy8Y6TBJaAjAiyFazK5SpV1g
 
 ### Here are some stats, until I put actual information here.
 <br>
